@@ -39,7 +39,7 @@ To run a full processing on synthetic data (connectomes of dimension 25x25):
 
 	python syntheticHarmonization.py -d 25 
 	
-This code (syntheticHarmonization.py) takes as parameter the dimension of the connectomes (smaller connectomes will be processed faster) and: 
+syntheticHarmonization.py require as parameter the dimension of the connectomes (smaller connectomes will be processed faster) and: 
 - generates 10 random data sets (of 475 time series, each time series containing 1000 time points)
 - for each data set, runs three different harmonizations (mean harmonization, mean and scatter harmonization, ComBat harmonization) with the fastest method: the Bures-Wasserstein framework using the identity matrix as a reference
 - displays the harmonization.py commands used
