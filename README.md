@@ -5,9 +5,11 @@ version 1.0.0
 -------------------------------------------------------------------------------
 
 This software requires the Python librairies: 
+
 	neuroCombat pandas scipy numpy os matplotlib
 
 neuroCombat can be installed by executing: 
+
 	pip install neurocombat
 
 -------------------------------------------------------------------------------
@@ -27,12 +29,14 @@ and carry out the following steps:
 
 
 To check the usage: 
+
 	python harmonization.py -h
 
 
 -------------------------------------------------------------------------------
 
 To run a full processing on synthetic data (connectomes of dimension 25x25): 
+
 	python syntheticHarmonization.py -d 25 
 	
 This code (syntheticHarmonization.py) takes as parameter the dimension of the connectomes (smaller connectomes will be processed faster) and: 
@@ -42,6 +46,7 @@ This code (syntheticHarmonization.py) takes as parameter the dimension of the co
 - generates a visualization of the log of the connectomes before and after harmonization (PCA)  
 
 To check the usage: 
+
 	python syntheticHarmonization.py -h
 
 -------------------------------------------------------------------------------
