@@ -2,6 +2,8 @@
 Connectomes harmonization
 version 1.0.0
 
+---
+
 ================================================================================
 
 This software requires the Python librairies:
