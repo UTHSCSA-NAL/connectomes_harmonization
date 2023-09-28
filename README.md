@@ -1,5 +1,5 @@
 # connectomes_harmonization
-Connectomes harmonization
+Connectomes harmonization 
 version 1.0.0
 
 -------------------------------------------------------------------------------
