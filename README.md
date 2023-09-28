@@ -3,6 +3,7 @@ Connectomes harmonization
 version 1.0.0
 
 ================================================================================
+
 This software requires the Python librairies:
   neuroCombat pandas scipy numpy os matplotlib
 
@@ -10,6 +11,7 @@ neuroCombat can be installed by executing:
 	pip install neurocombat
 
 ================================================================================
+
 harmonization.py requires the following parameters:
 _ a csv file that (1) lists text or npy files storing fMRI time series, (2) contains associated clinical variables to preserve during the harmonization such as age, (3) indicates what group the scan/time series belong to
 _ the framework to use for the harmonization (no framework, Fisher z-transform, Affine-Invariant geometric framework, Bures-Wasserstein geometric framework)
@@ -29,6 +31,7 @@ To check the usage:
 
 
 ================================================================================
+
 To run a full processing on synthetic data (connectomes of dimension 25x25):
 	python syntheticHarmonization.py -d 25 
 	
