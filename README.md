@@ -6,7 +6,7 @@ version 1.0.0
 
 This software requires the Python librairies:
 
-  neuroCombat pandas scipy numpy os matplotlib
+	neuroCombat pandas scipy numpy os matplotlib
 
 neuroCombat can be installed by executing:
 
