@@ -44,7 +44,8 @@ _ generates a visualization of the log of the connectomes before and after harmo
 To check the usage: 
 	python syntheticHarmonization.py -h
 
-================================================================================	
+================================================================================
+
 For more details about the method, please read (and cite): 
 	Riemannian Frameworks for the Harmonization of resting-state Functional MRI Scans
 	Nicolas Honnorat, Sudha Seshadri, Ron Killiany, John Blangero, David C. Glahn, Peter Fox, Mohamad Habes
