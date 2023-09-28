@@ -21,7 +21,7 @@ harmonization.py requires the following parameters:
 - the reference connectome to use (the identity marix, the average of the correlation matrices, or the Frechet mean. In the Fisher z-transform framework, the Frechet mean is calculated as the mean of the connectomes after Fisher z-transform. In the "no framework" framework the Frechet mean is the standard mean between correlation matrices).
 - an output folder to store the results
  
-and carry out the following steps: 
+and carries out the following steps: 
 - calculation of the correlation matrices (including OAS shrinkage)
 - harmonization of these matrices
 - storing the harmonized matrices in the output folder
