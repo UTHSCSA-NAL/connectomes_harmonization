@@ -52,7 +52,7 @@ To check the usage:
 
 -------------------------------------------------------------------------------
 
-For more details about the method, please read (and cite):
+For more details about the method, please read (and cite): <br>
 
 	Nicolas Honnorat, Sudha Seshadri, Ron Killiany, John Blangero, David C. Glahn, Peter Fox, Mohamad Habes,
-	Riemannian frameworks for the harmonization of resting-state functional MRI scans, Medical Image Analysis, Volume 91, 2024, 103043
+	"Riemannian frameworks for the harmonization of resting-state functional MRI scans", Medical Image Analysis, Volume 91, 2024, 103043
