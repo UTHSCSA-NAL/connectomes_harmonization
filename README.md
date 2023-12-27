@@ -53,7 +53,5 @@ To check the usage:
 -------------------------------------------------------------------------------
 
 For more details about the method, please read (and cite): 
-
-	Riemannian Frameworks for the Harmonization of resting-state Functional MRI Scans
-	Nicolas Honnorat, Sudha Seshadri, Ron Killiany, John Blangero, David C. Glahn, Peter Fox, Mohamad Habes
-	Medical Image Analysis (in revision)
+	Nicolas Honnorat, Sudha Seshadri, Ron Killiany, John Blangero, David C. Glahn, Peter Fox, Mohamad Habes,
+	Riemannian frameworks for the harmonization of resting-state functional MRI scans, Medical Image Analysis, Volume 91, 2024, 103043
